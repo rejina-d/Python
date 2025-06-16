@@ -8,7 +8,7 @@
 #7. Floor Division //
 
 num1 =10
-num2 = 2
+num2 = 15
 
 # Addition
 sum = num1 + num2
@@ -54,3 +54,21 @@ print(num2>=num1 and num1<=num2)
 print(num1>=num2 or num2<=num1)
 print(num2>=num1 or num1<=num2)
 print (not num1>num2)
+
+#Assignment operator
+#1. = (assign)
+#2. += (add and assign)
+#3. -= (subtract and assign)
+#4. *= (multiply and assign)
+#5. /= (divide and assign)
+#6. %= (modulus and assign)
+#7. **= (exponent and assign)
+
+num1 = num1+1
+print(num1)
+
+num1+=1
+print(num1)
+
+num1 **= 2
+print(num1)
