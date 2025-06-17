@@ -72,3 +72,10 @@ print(num1)
 
 num1 **= 2
 print(num1)
+
+
+# conditional operator (True experssion = false expression)
+
+#1. if (if condition)
+#2. elif (else if condition)
+#3. else (else condition)
